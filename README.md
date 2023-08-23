@@ -13,3 +13,4 @@ A Inteligência Artificial envolve a criação de sistemas capazes de realizar t
 - **Discussões:** Debates sobre ética, tendências e o futuro da IA.
 
 Vamos explorar juntos o empolgante mundo da IA!
+#Commit para nova branch de teste, estudando funcionamento de branch
